@@ -191,6 +191,8 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 Questa scheda fornisce, per ogni Scompartimento, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
 Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
 
+*Nota*: A causa dell'assenza di tende tra il corridoio ed i compartimenti, saranno presenti diverse infiltrazioni luminose che andranno ad inficiare l'effetto delle luci notturne; e' consigliato provvedere alla realizzazione di un isolamento contro tali infiltrazioni per ottenere il miglior realismo in notturna.</br>
+
 ------------
 
 ### Illuminazione Ritirate
