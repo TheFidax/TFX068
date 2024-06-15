@@ -33,7 +33,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/diurna_bianchi.jpg" width="1280">
 
-- Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *Cuccette con luci blu*.
+- Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *Scompartimenti con luci blu*.
 
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/diurna_blu.jpg" width="1280">
 
@@ -41,7 +41,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/notturna_bianchi.jpg" width="1280">
 
-- Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *Cuccette con luci blu*.
+- Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *Scompartimenti con luci blu*.
 
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
@@ -52,7 +52,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 ------------
 
 ## Video Presentazione del Progetto
-[![Video Presentazione](https://img.youtube.com/vi/yyA5b5wTD80/0.jpg)](http://www.youtube.com/watch?v=yyA5b5wTD80)
+[![Video Presentazione](https://img.youtube.com/vi/xxxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxxx)
 
 ------------
 
@@ -90,7 +90,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Sistema BiDirezionale RCN217](#sistema-bidirezionale-RCN217)
 - [Microchip ATmega128A](#microchip-atmega128a)
 - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
-- [Cuccette con Luci Diurne e Notturne *indipendenti*](#illuminazione-cuccette-con-luci-diurne-e-notturne)
+- [Scompartimenti con Luci Diurne e Notturne *indipendenti*](#illuminazione-scompartimenti-con-luci-diurne-e-notturne)
 - [Ritirate](#illuminazione-ritirate)
 - [Luci di Coda Rosse](#luci-di-coda-rosse)
 - [Altoparlante](#altoparlante)
@@ -150,7 +150,7 @@ La scheda **e' compatibile con il DCC e con il Motorola**, programmazione **solo
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/rcn217.jpg" width="1280">
 
 **NOTA: FUNZIONALITA' ANCORA NON IMPLEMENTATA LATO FIRMWARE.**</br>
-Dalla revisione HardWare 3.00 e' disponibile il sistema di comunicazione bidirezionale [Rcn217](http://normen.railcommunity.de/RCN-217.pdf), utile per la lettura delle CVs in modalita' POM e per conoscere la posizione del rotabile sul tracciato.</br>
+Dalla revisione HardWare 2.00a e' disponibile il sistema di comunicazione bidirezionale [Rcn217](http://normen.railcommunity.de/RCN-217.pdf), utile per la lettura delle CVs in modalita' POM e per conoscere la posizione del rotabile sul tracciato.</br>
 **NOTA**: E' necessario una centrale digitale che supporti il protocollo RCN217.</br>
 
 ------------
@@ -185,27 +185,18 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 
 ------------
 
-### Illuminazione Cuccette con Luci Diurne e Notturne
-<img src="https://github.com/TheFidax/TFX068/blob/main/Images/luci_cuccette.jpg" width="1280">
+### Illuminazione Scompartimenti con Luci Diurne e Notturne
+<img src="https://github.com/TheFidax/TFX068/blob/main/Images/luci_scompartimenti.jpg" width="1280">
 
-Questa scheda fornisce, per ogni Cuccetta, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
+Questa scheda fornisce, per ogni Scompartimento, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
 Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
-
-Le vetture Cuccette Comfort si dividono in due tipologie
- - Vettura con 9 Cuccette
- - Vettura con 8 Cuccette + Zona Cuccettista
-
-La scheda **e' compatibile con entrambe le versioni.**
 
 ------------
 
 ### Illuminazione Ritirate
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/luci_ritirate.jpg" width="1280">
 
-Le carrozze *tipo* **1995R** posseggono finestrini *opacizzati* in corrispondenza delle Ritirate.</br>
-La scheda e' progettata con LED per illuminare anche questi spazi, anche essi sono indipendenti.
-
-**NOTA**: Le vetture *Tipo 1998R* **NON HANNO** finestrini in corrispondenza delle Ritirate, e' consigliabile non accendere questi LED per evitare che si vedano in caso di plastica sottile. 
+La scheda e' progettata con LED per illuminare anche questi spazi, anche essi sono indipendenti. 
 
 ------------
 
@@ -238,11 +229,6 @@ Protocolli come:
 Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi al Decoder), il [Bus SUSI](https://dccwiki.com/SUSI) (per utilizzare la scheda come modulo SUSI) e il collegamento per un altoparlante (in caso di decoder sonori: es. [ESU LokSound v5 FX](http://www.esu.eu/en/products/loksound/loksound-5-fx/)).
 
 **ATTENZIONE! Non è previsto un "motore fittizio" pertanto in caso di decoder "per locomotive" la *Lettura/Scrittura* delle CVs e' permessa soltanto tramite *PoM!***
-
-*N.B.* Data la presenza di una zona nascosta e' possibile inserire lì un decoder esterno non compatibile con l'altezza della carrozza, oppure con connettore diverso.</br>
-Esempio: Decoder [Maerklin mLD3](https://www.maerklin.de/en/products/details/article/60972/) con **connettore 21MTC** collegato mediante adattatore:
-
-<img src="https://github.com/TheFidax/TFX068/blob/main/Images/external_decoder.jpg" width="1280">
 
 ------------
 
