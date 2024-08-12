@@ -180,7 +180,7 @@ Il microcontrollore **non può** essere dotato di *bootloader*: non e' presente 
 
 Per programmare il microcontrollore e' presente *una porta di programmazione ISP* con connettore JST SH6 per prevenire connessioni invertite; lo schma di collegamento e' il seguente:</br>
 
-<img src="https://github.com/TheFidax/TFX068/blob/main/Images/isp.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX068/blob/main/Images/isp_schematic.jpg" width="1280">
 
 ------------
 
