@@ -9,7 +9,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 
 **Codice Identificativo Progetto: TFX068**
 
-**Testata con i seguenti modelli**: **50356 - 50604 - 55214**.
+**Testata con i seguenti modelli**: **50356 - 50604 - 55214 - 55215**.
 
 **Ultima Revisione HardWare: 2.00c**
 
