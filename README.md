@@ -1,6 +1,6 @@
 # Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Uic Eurofima Z1](https://scalaenne.wordpress.com/2016/04/23/uic-z-parte-2-le-z1/) B in Scala H0
 Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Eurofima Z1 B di 2 Classe a scompartimenti, in scala H0.</br>
-E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
+E' stata progettata espressamente sugli ingombri strutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Diurne Scompartimenti*
 - **Luci Notturne Blu Scompartimenti**
@@ -9,14 +9,14 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Codice Identificativo Progetto: TFX068**
 
+**Testata con i seguenti modelli**: *50356 - 50604 - 55214*.
+
 **Ultima Revisione HardWare: 2.00c**
 
 **Ultima Revisione FirmWare: 018**
 
 *NOTA:* Dalla revisione Hardware 2.00a e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/code_serial.jpg" width="1280">
-
-**La scheda e' stata testa e montata con i seguenti modelli**: *55275*.
 
 ## Indice
 * [Immagini Dimostrative](#immagini-dimostrative)
