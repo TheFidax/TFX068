@@ -16,6 +16,8 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 *NOTA:* Dalla revisione Hardware 2.00a e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/code_serial.jpg" width="1280">
 
+**La scheda e' stata testa e montata con i seguenti modelli**: *55275*.
+
 ## Indice
 * [Immagini Dimostrative](#immagini-dimostrative)
 * [Video Presentazione del Progetto](#video-presentazione-del-progetto)
