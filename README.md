@@ -11,9 +11,9 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 
 **Testata con i seguenti modelli**: **50356 - 50604 - 55214 - 55215**.
 
-**Ultima Revisione HardWare: 2.00c**
+**Ultima Revisione HardWare: 2.10c**
 
-**Ultima Revisione FirmWare: 018**
+**Ultima Revisione FirmWare: 019**
 
 *NOTA:* Dalla revisione Hardware 2.00a e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
 <img src="https://github.com/TheFidax/TFX068/blob/main/Images/code_serial.jpg" width="1280">
