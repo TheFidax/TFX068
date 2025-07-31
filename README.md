@@ -11,7 +11,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 
 **Testata con i seguenti modelli**: **50356 - 50604 - 55214 - 55215**.
 
-**Ultima Revisione HardWare: 2.10c**
+**Ultima Revisione HardWare: 2.11a**
 
 **Ultima Revisione FirmWare: 019**
 
