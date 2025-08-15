@@ -1,5 +1,5 @@
 # Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Uic Eurofima Z1](https://scalaenne.wordpress.com/2016/04/23/uic-z-parte-2-le-z1/) B in Scala H0
-Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Eurofima Z1 B di 2 Classe a scompartimenti, in scala H0.</br>
+Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Eurofima Z1 B di 2 Classe a scompartimenti **immesse sul mercato dal 2015** in poi, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri strutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Diurne Scompartimenti*
