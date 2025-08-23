@@ -1,5 +1,5 @@
 # Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Uic Eurofima Z1](https://scalaenne.wordpress.com/2016/04/23/uic-z-parte-2-le-z1/) B in Scala H0
-Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Eurofima Z1 B di 2 Classe a scompartimenti, in scala H0.</br>
+Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Eurofima Z1 B di 2 Classe a scompartimenti **immesse sul mercato dal 2015** in poi, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri strutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Diurne Scompartimenti*
@@ -15,8 +15,8 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 
 **Ultima Revisione FirmWare: 019**
 
-*NOTA:* Dalla revisione Hardware 2.00a e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
-<img src="https://github.com/TheFidax/TFX068/blob/main/Images/code_serial.jpg" width="1280">
+*NOTA:* Quando presente e' possibile, tramite QR Code, conoscere il *Seriale Progressivo* della scheda e la revisione Hardware della stessa:
+<img src="https://github.com/TheFidax/TFX073/blob/main/Images/QR_Code.jpg" width="1280">
 
 ## Indice
 * [Immagini Dimostrative](#immagini-dimostrative)
@@ -54,7 +54,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 ------------
 
 ## Video Presentazione del Progetto
-[![Video Presentazione](https://img.youtube.com/vi/xxxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxxx)
+[![Video Presentazione](https://img.youtube.com/vi/FH-L03CD-zo/0.jpg)](http://www.youtube.com/watch?v=FH-L03CD-zo)
 
 ------------
 
