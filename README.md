@@ -16,7 +16,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 **Ultima Revisione FirmWare: 019**
 
 *NOTA:* Quando presente e' possibile, tramite QR Code, conoscere il *Seriale Progressivo* della scheda e la revisione Hardware della stessa:
-<img src="https://github.com/TheFidax/TFX073/blob/main/Images/QR_Code.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX068/blob/main/Images/QR_Code.jpg" width="1280">
 
 ## Indice
 * [Immagini Dimostrative](#immagini-dimostrative)
